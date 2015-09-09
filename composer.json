@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Smt\\Buzz\\Client": "src"
+      "Smt\\Buzz\\Client\\": "src"
     }
   }
 }
