@@ -1,0 +1,27 @@
+{
+  "name": "smt/buzz-realmed-curl-client",
+  "description": "BuzzBrowser curl client with support for http-realm authentication",
+  "homepage": "http://github.com/saksmt/buzz-realmed-curl-client",
+  "authors": [{
+    "name": "Kirill Saksin",
+    "email": "kirillsaksin@yandex.ru"
+  }],
+  "keywords": [
+    "buzz",
+    "browser",
+    "curl",
+    "http",
+    "realm",
+    "auth",
+    "authentication"
+  ],
+  "require": {
+    "php": "~5.5",
+    "kriswallsmith/buzz": "0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Smt\\Buzz\\Client": "src"
+    }
+  }
+}
