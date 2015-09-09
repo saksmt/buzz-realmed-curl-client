@@ -2,6 +2,7 @@
   "name": "smt/buzz-realmed-curl-client",
   "description": "BuzzBrowser curl client with support for http-realm authentication",
   "homepage": "http://github.com/saksmt/buzz-realmed-curl-client",
+  "license": "MIT",
   "authors": [{
     "name": "Kirill Saksin",
     "email": "kirillsaksin@yandex.ru"
